@@ -3,7 +3,7 @@
 This is a fork of Gemini adopted for the Max-Planck-Institute for Biological Cybernetics.
 Gemini is a modern LaTeX [beamerposter] theme.
 
-![poster.pdf](assets/poster.pdf)
+![poster.pdf](assets/poster.png)
 
 If you're looking for a beamer presentation theme, take a look at [Auriga].
 
