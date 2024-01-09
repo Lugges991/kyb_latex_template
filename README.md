@@ -1,12 +1,9 @@
-# Gemini [![Build Status](https://github.com/anishathalye/gemini/workflows/CI/badge.svg)](https://github.com/anishathalye/gemini/actions?query=workflow%3ACI)
+# Gemini 
 
+This is a fork of Gemini adopted for the Max-Planck-Institute for Biological Cybernetics.
 Gemini is a modern LaTeX [beamerposter] theme.
 
-<p align="center">
-<a href="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini.pdf">
-<img src="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini-small.png">
-</a>
-</p>
+![poster.pdf](assets/poster.pdf)
 
 If you're looking for a beamer presentation theme, take a look at [Auriga].
 
@@ -38,9 +35,10 @@ to add an institution logo to the poster.
 
 ## Themes
 
-Gemini currently includes three color themes:
+Gemini currently includes four color themes:
 
-* `gemini` (default)
+* `kyb` (default)
+* `gemini` (original)
 * `mit`
 * `labsix`
 
